@@ -22,9 +22,6 @@ spring:
       secret: ${JWT_SECRET}
       expiration: 86400000 # 24 hours in milliseconds
 
-server:
-  port: 8080
-
 logging:
   level:
     com.expensetracker: DEBUG
