@@ -121,17 +121,6 @@ All secured endpoints require the header: `Authorization: Bearer <JWT_TOKEN>`
 
 ---
 
-## 🌍 Deployment
-
-### Backend (Render)
-The Spring Boot application is deployed on [Render](https://render.com).
-* **Live URL:** `https://YOUR-APP-NAME.onrender.com`
-
-### Database (Supabase)
-PostgreSQL database is hosted on [Supabase](https://supabase.com).
-
----
-
 ## 🔮 Future Enhancements
 - [ ] **Dashboard Analytics:** Visual charts and graphs for spending trends.
 - [ ] **Budget Limits:** Set monthly limits and get alerts.
